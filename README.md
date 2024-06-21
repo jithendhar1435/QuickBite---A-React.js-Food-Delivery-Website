@@ -50,7 +50,7 @@ To get a local copy of the project up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/Raju-628/QuickBite---A-React.js-Food-Delivery-Website.git](https://github.com/AbhiramAnusuri/QuickBite---A-React.js-Food-Delivery-Website.git)
+   (https://github.com/AbhiramAnusuri/QuickBite---A-React.js-Food-Delivery-Website.git)
 Navigate into the project directory:
 
 
